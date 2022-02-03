@@ -8,8 +8,13 @@ we need
 kanban
 github devs
 gofundme management
-and generally a decentralized levrl of trust to reconnect and maintain infrastructure as code.  
+and generally a decentralized level of trust to reconnect and maintain infrastructure as code.  
 
 #aQ @eaasaq @aquaqlabs
+
+ser REPOS.md for latest code projects
+
+NEED ADMINS!!
+
 
 
